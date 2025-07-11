@@ -8,13 +8,13 @@ import java.util.Scanner;
 
 public class Tres {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        int c = sc.nextInt();
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+        int c = scan.nextInt();
 
         System.out.println(a + b + c);
-        sc.close();
+        scan.close();
     }
 }
