@@ -4,7 +4,7 @@
  * @author UxieGu1
  */
 
-package Selecao_II;
+package Selecao_I;
 import java.util.Scanner;
 
 public class Mumia {
