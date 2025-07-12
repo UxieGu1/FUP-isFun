@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
 /**
- * Questão: ...
+ * Questão: ........
  *
  * @author UxieGu1
  */
+//Classe pra usar o JavaDoc :)
+
 public class Author {
-    //Classe pra usar o JavaDoc :)
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+    }
 }
