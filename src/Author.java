@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Questão: @colorido: Paulo Victor e seu sapato colorido
+ * Questão: ......
  *
  * @author UxieGu1
  */
