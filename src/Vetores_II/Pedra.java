@@ -1,3 +1,9 @@
+/**
+ * Questão: @pedra: Pedra na lua
+ *
+ * @author UxieGu1
+ */
+package Vetores_II;
 import java.util.Scanner;
 
 public class Pedra {
